@@ -1,0 +1,9 @@
+{
+  "app": "node index",
+  "context": {
+    "domain": "adesso.local",
+    "subdomain": "s3-static-site-demo",
+    "accountId": 488045041628,
+    "region": "eu-central-1"
+  }
+}
